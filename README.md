@@ -1,6 +1,6 @@
-## Freenove_7_Inch_Touch_Screen_for_Raspberry_Pi
+## Freenove_Touchscreen_Monitor
 
-A 7 inch touch screen.
+A touchscreen monitor with HDMI input.
 
 > Raspberry Pi® is a trademark of Raspberry Pi Foundation (https://www.raspberrypi.org/). 
 
