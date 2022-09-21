@@ -2,8 +2,6 @@
 
 A touchscreen monitor with HDMI input.
 
-> Raspberry Pi® is a trademark of Raspberry Pi Foundation (https://www.raspberrypi.org/). 
-
 > Before using this product, please read the user manual carefully and operate according to the manual.
 
 ### Download
