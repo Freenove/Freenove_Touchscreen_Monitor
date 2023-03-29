@@ -10,7 +10,7 @@ A touchscreen monitor with HDMI input.
 
     Run following command to download all the files in this repository.
 
-    `git clone --depth 1 https://github.com/Freenove/Freenove_7_Inch_Touch_Screen_for_Raspberry_Pi.git`
+    `git clone --depth 1 https://github.com/Freenove/Freenove_Touchscreen_Monitor.git`
 
 * **Manually download in browser**
 
